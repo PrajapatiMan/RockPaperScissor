@@ -1,2 +1,4 @@
-# Rock Paper Scissor ✊ ✋ ✌️
+# Rock ✊🏻
+# Paper ✋🏻
+# Scissor ✌🏻
 # Play and Enjoy ⚡
